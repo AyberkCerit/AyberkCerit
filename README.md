@@ -1,3 +1,7 @@
+<p align="right">
+  🌐 <img src="https://img.shields.io/badge/EN-0f7a63?style=flat-square" alt="EN (current)"> <a href="README.tr.md"><img src="https://img.shields.io/badge/TR-6e7781?style=flat-square" alt="TR"></a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <img alt="Ayberk Cerit — Software Engineering student building local-first AI" src="assets/header-light.svg" width="100%">
@@ -92,10 +96,10 @@ The AI is not a chatbot bolted onto the side. It works in the background: it rea
 ## Toolbox
 
 **Languages**<br>
-<img src="https://skillicons.dev/icons?i=rust,py,ts,cpp,php,js&perline=12" alt="Rust, Python, TypeScript, C++, PHP, JavaScript" height="44">
+<img src="https://skillicons.dev/icons?i=py,cpp,php&perline=12" alt="Python, C++, PHP, " height="44">
 
 **Desktop and web**<br>
-<img src="https://skillicons.dev/icons?i=tauri,svelte,laravel,tailwind,vite,html,css&perline=12" alt="Tauri, Svelte, Laravel, Tailwind, Vite, HTML, CSS" height="44">
+<img src="https://skillicons.dev/icons?i=laravel,html,css&perline=12" alt="Laravel, HTML, CSS" height="44">
 
 **Data, infrastructure and tools**<br>
 <img src="https://skillicons.dev/icons?i=sqlite,mysql,redis,docker,git,github,vscode&perline=12" alt="SQLite, MySQL, Redis, Docker, Git, GitHub, VS Code" height="44">
@@ -108,21 +112,5 @@ The AI is not a chatbot bolted onto the side. It works in the background: it rea
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 
 🎓 [freeCodeCamp Python certification](https://www.freecodecamp.org/certification/fcc-8f89b51a-2986-4298-b835-168ac71e984c/python-v9)
-
-<details>
-<summary><b>🇹🇷 Türkçe</b></summary>
-<br>
-
-Gümüşhane Üniversitesi'nde **Yazılım Mühendisliği** 3. sınıf öğrencisiyim ve hedefim **yapay zekâ / makine öğrenmesi mühendisliği**.
-Beni en çok verinin bulunduğu yerde çalışan yapay zekâ heyecanlandırıyor: bilgisayarında, küçük bir cihazda, bir İHA'da. Başkasının bulutunda değil.
-
-- 🔭 **Geliştiriyorum:** [PLA](https://github.com/AyberkCerit/personal_life_assistant). Notları, görevleri ve sağlık verilerini tamamen çevrimdışı tutan, yerel bir dil modeliyle çalışan masaüstü asistanı. Yapay zekâ arka planda notlarından görev, hatırlatıcı ve ölçüm çıkarıyor; sorduğunda kendi notlarından cevap veriyor. (Rust · Tauri · Svelte · llama.cpp · Gemma 4)
-- 🏛️ **2026 yazı:** Bilim A.Ş.'de (Konya Büyükşehir Belediyesi teknoloji birimi) yazılım geliştirme stajyeri. Laravel + Docker üzerinde saha denetim ve görev yönetim sistemi geliştirdim.
-- 🌱 **Öğreniyorum:** otonom İHA'lar için pekiştirmeli öğrenme, görüntü işleme, işletim sistemleri
-- 🤝 **Açığım:** yapay zekâ / ML stajlarına ve cihaz üzerinde çalışan yapay zekâ sohbetlerine
-
-</details>
-
-<br>
 
 <p align="center"><sub>Local-first, measured, documented. Thanks for stopping by.</sub></p>
